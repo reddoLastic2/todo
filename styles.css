@@ -21,7 +21,7 @@ body {
   font-size: 1.5rem;
 }
 #disp_todo {
-  height: 650px;
+  height: auto;
   width: 70%;
   background-position: fixed;
   position: absolute;
@@ -52,4 +52,5 @@ body {
 #delet_todo {
   width: auto;
   height: 40px;
+
 }
